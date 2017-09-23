@@ -3,23 +3,7 @@
 Eventually this will house the notes, code and information from CC Fest LA 2017. For now this is my punchlist of bugs and things to talk about during the workshop.
 
 
-## PunchList and Thoughts
-
-__* Jump  
-__* Shuffle the color order  
-  	* remember to replicate the JSON on the client
-# Put a frame on the board
-__# Reset Game
-## Reset Player
-
-# Indicator to know players
-# For pixel check you have to check
-	all pixels between prevPos and current
-### Add Player Connection Form
-## Feedback when dead
-# Sounds
-__# Better dead icon
-# Documentation and Notes
+## Documentation and Notes
   * Elbow Room
   * What was that??
   * list of install requirements
@@ -52,3 +36,20 @@ __# Better dead icon
 	* Spacebrew
 	   * demo with place message?
 	
+
+## Punch List
+
+__* Jump  
+__* Shuffle the color order  
+  	* remember to replicate the JSON on the client
+* Put a frame on the board
+* Reset Game
+* Reset Player
+
+* Indicator to know players
+* For pixel check you have to check
+	all pixels between prevPos and current
+* Add Player Connection Form
+* Feedback when dead
+* Sounds
+* Better dead icon
